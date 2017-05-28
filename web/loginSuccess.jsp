@@ -13,7 +13,7 @@
 </head>
 <body>
     <div class="container" style="margin-top:5%;">
-        <h3>Welcome Back</h3>
+        <h3 style = "text-align: center; color:lightseagreen; margin: 20%;font-size: 78px">Welcome Back</h3>
     </div>
 
 </body>

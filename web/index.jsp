@@ -10,7 +10,6 @@
   <head>
     <title>$Title$</title>
     <link rel="stylesheet" type="text/css" href="login.css">
-    <script src="login.js"></script>
   </head>
   <body>
     <div class="container">
